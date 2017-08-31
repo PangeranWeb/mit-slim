@@ -10,3 +10,4 @@
 // });
 
 $app->get('/book', 'Mit\Controller\BookController:book');
+$app->post('/login', 'Mit\Controller\AuthController:login');
