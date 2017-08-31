@@ -1,6 +1,6 @@
-# Joglo Semar Plartform
+# Stawberry Plartform
 
-Bus ticketing system API base platform.
+Advance chat system API base platform.
 Build in PHP with Slim Framework.
 
 # API Documentation
