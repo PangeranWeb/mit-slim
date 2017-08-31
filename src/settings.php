@@ -20,7 +20,7 @@ return [
         'database' => [
             'user' => 'root',
             'pass' => 'apple',
-            'name' => 'slim',
+            'name' => 'strawberry',
             'host' => 'db'
         ],
     ],
