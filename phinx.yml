@@ -19,7 +19,7 @@ environments:
         host: db
         name: slim
         user: root
-        pass: 'apple'
+        pass: 'strawberry'
         port: 3306
         charset: utf8
 

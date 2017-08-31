@@ -32,6 +32,9 @@ class CreateAccountTable extends AbstractMigration
               ->addColumn('alamat', 'text')
               ->addColumn('phone', 'string')
               ->addColumn('email', 'string')
+              ->addColumn('status', 'string')
+              ->addColumn('verification_code', 'string')
+              ->addColumn('date_added', 'datetime')
               ->create();
     }
 }
